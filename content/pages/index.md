@@ -98,7 +98,7 @@ sections:
     title: Blog Kami
 seo:
   title: Hiko Studio
-  description: The preview of the Azimuth theme
+  description: Your Digital Partner for Better UX App
   extra:
     - name: 'og:type'
       value: website
