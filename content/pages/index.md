@@ -79,7 +79,7 @@ sections:
         avatar_alt: Parsley Montana's photo
         content: Sistem Kelola Stok & Data Transaksi
       - author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
+        avatar: /images/4963468.png
         avatar_alt: Jonquil Von Haggerston's photo
         content: Sistem Informasi Sekolah
   - section_id: call-to-action
