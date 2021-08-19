@@ -78,7 +78,7 @@ sections:
         avatar: /images/custom-eCommerce-website-design-icon.png
         avatar_alt: Parsley Montana's photo
         content: Situs web dibangun dengan Laravel
-      - author: Jonquil Von Haggerston
+      - author: Situs Web Sekolah kelola data Siswa & Nilai.
         avatar: /images/4963468.png
         avatar_alt: Jonquil Von Haggerston's photo
         content: Sistem Informasi Sekolah
