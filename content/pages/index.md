@@ -6,9 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: JASA PEMBUATAN WEBSITE PROFESIONAL
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Agensi digital terkemuka dengan keahlian desain dan pengembangan yang
+      solid. Kami membangun situs web siap pakai, mobile friendly, dan berfokus
+      pada UKM yang siap berjualan di platform digital.
     actions:
       - label: Learn More
         url: /features
