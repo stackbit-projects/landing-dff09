@@ -67,7 +67,7 @@ sections:
     title: Portofolio.
     subtitle: >-
       Saya dan Team telah mengerjakan beberapa Proyek Situs Web. Semua melalui
-      proses Briefing agar Situs dapat berdampang maksimal terhadap usaha
+      proses Briefing agar situs web dapat berdampak maksimal terhadap usaha
       dimiliki.
     reviews:
       - author: Eric Widget
