@@ -24,7 +24,7 @@ sections:
         image_alt: App preview on a phone and tablet
         content: >
           Mengembangkan situs web lebih dari sekadar pemasaran / marketing. Ini
-          juga tentang estetika. Bagi kami, Situs Web adalah Wajah dari usaha
+          juga tentang estetika. Bagi kami, Situs Web adalah Branding dari usaha
           kamu. Mari kita membuatnya menakjubkan.
         actions:
           - label: Let's Work Together
