@@ -50,10 +50,10 @@ sections:
       - title: Mulai Sekarang
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Tidak perlu takut bagaimana mengoperasikan dan mengurus situs web
+          kamu. Saya dan Team siap memberikan Edukasi secara Kompleks dan Mudah
+          dipahami.
         actions:
           - label: Learn More
             url: /features
