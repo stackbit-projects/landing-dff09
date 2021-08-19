@@ -70,7 +70,7 @@ sections:
       proses Briefing agar situs web dapat berdampak maksimal terhadap usaha
       dimiliki.
     reviews:
-      - author: Dibuat dengan Wordpress
+      - author: Situs Web Company Profile.
         avatar: /images/1497762.png
         avatar_alt: Eric Widget's photo
         content: Situs Web Profile Perusahaan.
