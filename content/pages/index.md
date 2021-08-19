@@ -107,7 +107,7 @@ seo:
       value: Hiko Studio
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: Your Digital Partner for Better UX App
       keyName: property
     - name: 'og:image'
       value: images/hero.png
