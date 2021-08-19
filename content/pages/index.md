@@ -7,9 +7,9 @@ sections:
     image_alt: App preview
     title: JASA PEMBUATAN WEBSITE PROFESIONAL
     content: >
-      Agensi digital* Friendly* dengan keahlian desain dan pengembangan yang
-      solid. Saya dan team membangun situs web siap pakai, mobile friendly, dan
-      berfokus pada UKM yang siap berjualan di platform digital.
+      Agensi digital dengan keahlian desain dan pengembangan yang solid. Saya
+      dan team membangun situs web siap pakai, mobile friendly, dan berfokus
+      pada Usaha UMKM yang siap berjualan di platform digital.
     actions:
       - label: Learn More
         url: /features
