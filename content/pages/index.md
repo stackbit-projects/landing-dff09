@@ -74,7 +74,7 @@ sections:
         avatar: /images/1497762.png
         avatar_alt: Eric Widget's photo
         content: Situs Web dibangun dengan wordpress
-      - author: Parsley Montana
+      - author: Situs Web Inventory dan Sales
         avatar: /images/custom-eCommerce-website-design-icon.png
         avatar_alt: Parsley Montana's photo
         content: Situs web dibangun dengan Laravel
