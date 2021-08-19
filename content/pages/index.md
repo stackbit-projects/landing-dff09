@@ -71,7 +71,7 @@ sections:
       dimiliki.
     reviews:
       - author: Eric Widget
-        avatar: images/review1.jpg
+        avatar: /images/1497762.png
         avatar_alt: Eric Widget's photo
         content: Situs Web Profile Perusahaan.
       - author: Parsley Montana
