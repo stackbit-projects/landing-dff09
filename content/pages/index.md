@@ -37,11 +37,9 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
-          Situs web bukan hanya sekedar situs \[dot] com
-
-
-          Sesuaikan dengan jenis usaha dan kebutuhanmu, agar situs web dapat
-          menjangkau lebih banyak customer potensial.
+          Situs web bukan hanya sekedar situs \[dot] com, sesuaikan dengan jenis
+          usaha dan kebutuhanmu, agar situs web dapat menjangkau lebih banyak
+          customer potensial.
         actions:
           - label: Learn More
             url: /features
