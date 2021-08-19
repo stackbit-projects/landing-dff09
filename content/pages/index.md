@@ -84,7 +84,9 @@ sections:
         content: Situs Web dibagun dengan Laravel
   - section_id: call-to-action
     type: section_cta
-    title: 'Yuk, mulai buat usahamu go digital dan jangkau'
+    title: >-
+      Yuk, mulai buat usahamu go digital dan jangkau lebih banyak customer
+      potensial.
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
