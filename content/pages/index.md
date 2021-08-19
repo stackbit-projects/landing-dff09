@@ -73,7 +73,7 @@ sections:
       - author: Situs Web Company Profile.
         avatar: /images/1497762.png
         avatar_alt: Eric Widget's photo
-        content: Situs Web Profile Perusahaan.
+        content: Situs Web dibangun dengan wordpress
       - author: Parsley Montana
         avatar: /images/custom-eCommerce-website-design-icon.png
         avatar_alt: Parsley Montana's photo
