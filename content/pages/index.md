@@ -73,7 +73,7 @@ sections:
       - author: Eric Widget
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
-        content: Situs Perusahaan.
+        content: Situs Web Profile Perusahaan.
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
