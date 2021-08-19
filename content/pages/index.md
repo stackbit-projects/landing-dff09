@@ -28,7 +28,7 @@ sections:
           juga tentang estetika. Bagi kami, situs Anda adalah wajah perusahaan
           Anda. Mari kita membuatnya menakjubkan.
         actions:
-          - label: Learn More
+          - label: Let's Work Together
             url: /features
             style: secondary
             has_icon: true
