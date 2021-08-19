@@ -66,8 +66,9 @@ sections:
     background: white
     title: Portofolio.
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+      Saya dan Team telah mengerjakan beberapa Proyek Situs Web. Semua melalui
+      proses Briefing agar Situs dapat berdampang maksimal terhadap usaha yang
+      kamu miliki.
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
