@@ -87,7 +87,7 @@ sections:
     title: >-
       Yuk, mulai buat usahamu go digital dan jangkau lebih banyak customer
       potensial.
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Konsultasikan Ide dan Tips Marketingmu
     actions:
       - label: Pesan Sekarang
         url: /signup
