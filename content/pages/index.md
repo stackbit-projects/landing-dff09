@@ -97,7 +97,7 @@ sections:
     background: gray
     title: Blog Kami
 seo:
-  title: Stackbit Azimuth Theme
+  title: Hiko Studio
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
