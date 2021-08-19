@@ -19,7 +19,7 @@ sections:
     background: gray
     title: Features
     features:
-      - title: The Best Feature of Your Services
+      - title: Pembuatan Website
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
