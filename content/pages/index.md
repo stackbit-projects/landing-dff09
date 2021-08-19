@@ -87,7 +87,7 @@ sections:
     title: >-
       Yuk, mulai buat usahamu go digital dan jangkau lebih banyak customer
       potensial.
-    subtitle: Konsultasikan Ide dan Tips Marketingmu
+    subtitle: Saya dan Team siap membantumu dalam memasuki bisnis digital
     actions:
       - label: Pesan Sekarang
         url: /signup
