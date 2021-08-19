@@ -75,7 +75,7 @@ sections:
         avatar_alt: Eric Widget's photo
         content: Situs Web Profile Perusahaan.
       - author: Parsley Montana
-        avatar: /images/2016011-200.png
+        avatar: /images/images.png
         avatar_alt: Parsley Montana's photo
         content: Sistem Kelola Stok & Data Transaksi
       - author: Jonquil Von Haggerston
