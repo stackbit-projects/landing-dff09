@@ -23,7 +23,7 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          Mengembangkan situs web lebih dari sekadar pemasaran/marketing. Ini
+          Mengembangkan situs web lebih dari sekadar pemasaran / marketing. Ini
           juga tentang estetika. Bagi kami, situs Anda adalah wajah perusahaan
           Anda. Mari kita membuatnya menakjubkan.
         actions:
